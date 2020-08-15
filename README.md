@@ -1,5 +1,7 @@
 Computer Vision
 ====
+jaeyun's blog
+▶https://blog.naver.com/jaeyoon_95
 
 ## Computer Vision Study
 
