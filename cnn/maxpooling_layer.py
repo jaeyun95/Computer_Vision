@@ -5,6 +5,8 @@ from __future__ import unicode_literals
 
 from typing import List, Optional
 
+## this code's copyright is on pytorch
+## site: https://pytorch.org/docs/stable/_modules/torch/nn/modules/pooling.html#AdaptiveMaxPool2d
 from torch import Tensor
 from .module import Module
 from .utils import _single, _pair, _triple
